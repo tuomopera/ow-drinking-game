@@ -31,5 +31,6 @@
 - **goon shit (anything)**              -> miika drinks 1
 - **roadhog shit (anything)**           -> ville drinks 1
 - **hero that has dot damage**          -> jere drinks 1
+-- Ana, Anran, Ashe, Mauga, Mizuki, Widowmaker, Junker Queen, Mei 
 - **keksi oma ebin juttu tähän :3**     -> x drink 1
 - **keksi oma ebin juttu tähän :3**     -> x drink 1
