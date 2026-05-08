@@ -6,7 +6,7 @@
 - Get your top 3 heroes for each ingame role for the **current season**
 
 ### Basic rules
-- If loot is for your top 3 heros (for each category), drink double
+- If loot is for your top 3 heroes (for each category), **drink double**
 
 #### Core Rules (Per Item)
 
