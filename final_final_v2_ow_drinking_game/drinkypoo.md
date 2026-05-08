@@ -1,4 +1,4 @@
-## ### Lootbox Roulette 🍻
+### Lootbox Roulette 🍻
 
 **Overwatch-themed drinking game for opening Loot Boxes**
 
@@ -31,3 +31,5 @@
 - **goon shit (anything)**              -> miika drinks 1
 - **roadhog shit (anything)**           -> ville drinks 1
 - **hero that has dot damage**          -> jere drinks 1
+- **keksi oma ebin juttu tähän :3**     -> x drink 1
+- **keksi oma ebin juttu tähän :3**     -> x drink 1
