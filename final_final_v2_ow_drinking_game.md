@@ -15,3 +15,11 @@
 | Roadhog | Zenyatta | Soldier: 76 |
 | Winston | Juno | Reaper |
 | Zarya | Mercy | Emre |
+
+## Ällä
+
+| Tank | Healer | DPS |
+|------|--------|-----|
+| Sigma | Baptiste | Soldier: 76 |
+| Ramattra | Illari | Mei |
+| Zarya | Kiriko | Hanzo |
