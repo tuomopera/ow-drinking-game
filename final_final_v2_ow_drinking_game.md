@@ -40,7 +40,7 @@
 | Ramattra | Kiriko | Ashe |
 | Domina | Ana | Emre |
 
-## Joemboes
+## Joemboe
 
 | Tank | Healer | DPS |
 |------|--------|-----|
