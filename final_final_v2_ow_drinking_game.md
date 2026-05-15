@@ -23,3 +23,11 @@
 | Sigma | Baptiste | Soldier: 76 |
 | Ramattra | Illari | Mei |
 | Zarya | Kiriko | Hanzo |
+
+## Koira
+
+| Tank | Healer | DPS |
+|------|--------|-----|
+| Reiska | Zenyatta | Soldier: 76 |
+| D.Va | Moira | Sojourn |
+| Dommymommy | Kiriko | Cassidy |
