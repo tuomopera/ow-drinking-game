@@ -31,3 +31,11 @@
 | Reiska | Zenyatta | Soldier: 76 |
 | D.Va | Moira | Sojourn |
 | Dommymommy | Kiriko | Cassidy |
+
+## Joemboes
+
+| Tank | Healer | DPS |
+|------|--------|-----|
+| D.Va | Mercy | Widowmaker |
+| Zarya | Lúcio | Junkrat |
+| Reiska | Zenyatta | Soldier: 76 |
