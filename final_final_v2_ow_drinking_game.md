@@ -47,3 +47,11 @@
 | D.Va | Mercy | Widowmaker |
 | Zarya | Lúcio | Junkrat |
 | Reiska | Zenyatta | Soldier: 76 |
+
+## Maasori
+
+| Tank | Healer | DPS |
+|------|--------|-----|
+| Domina | Juno | Anran |
+| D.Va | Kiriko | Soldier: 76 |
+| Reiska | Allari | Emre |
