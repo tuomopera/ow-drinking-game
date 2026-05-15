@@ -32,6 +32,14 @@
 | D.Va | Moira | Sojourn |
 | Dommymommy | Kiriko | Cassidy |
 
+## Aladintz
+
+| Tank | Healer | DPS |
+|------|--------|-----|
+| Reinhardt | Mizuki | McCree |
+| Ramattra | Kiriko | Ashe |
+| Domina | Ana | Emre |
+
 ## Joemboes
 
 | Tank | Healer | DPS |
